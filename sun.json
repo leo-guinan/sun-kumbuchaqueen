@@ -1,0 +1,382 @@
+{
+  "id": "sun-kumbuchaqueen",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@kumbuchaqueen Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_f61872ae0b2a",
+    "display_name": "kumbuchaqueen",
+    "user_id": "@kumbuchaqueen",
+    "description": "Community Archive-derived proof-of-search sun for @kumbuchaqueen.",
+    "document_count": 18046,
+    "word_count": 294081,
+    "active_days": 1209,
+    "emissions": [
+      "Good",
+      "Time",
+      "Don",
+      "Think",
+      "Work",
+      "Really"
+    ],
+    "generated_at": "2026-06-27T16:25:00.645238+00:00",
+    "color": "#f59e0b",
+    "mass": 12.592
+  },
+  "planets": [
+    {
+      "id": "planet_b5a028cc9697",
+      "name": "Good",
+      "summary": "Archive cluster around good: 15595 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "way",
+        "here",
+        "thing",
+        "cause"
+      ],
+      "artifacts": [
+        {
+          "id": "art_521cdaa0f540",
+          "title": "Good receipt from 2023-08-14",
+          "excerpt": "@growing_daniel Enthusiastic to be alive",
+          "source_document_id": "1690883860106817537",
+          "timestamp": "2023-08-14T00:31:42+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1690883860106817537",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, here, thing."
+        },
+        {
+          "id": "art_141dacb0b81d",
+          "title": "Good receipt from 2024-12-03",
+          "excerpt": "@politicalmath dont make me go bareback",
+          "source_document_id": "1864056251350753609",
+          "timestamp": "2024-12-03T21:16:57+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1864056251350753609",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, here, thing."
+        },
+        {
+          "id": "art_64589e2227c7",
+          "title": "Good receipt from 2024-12-11",
+          "excerpt": "@nolemonnomelon like wind in a car",
+          "source_document_id": "1866658508260905178",
+          "timestamp": "2024-12-11T01:37:23+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1866658508260905178",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, here, thing."
+        },
+        {
+          "id": "art_c15976993fb5",
+          "title": "Good receipt from 2023-06-18",
+          "excerpt": "Since we're in a vibecamp sourtalk mood,\n\nMan a lotta mfs be mad they went to a thing about meeting new people and having people want to meet them",
+          "source_document_id": "1670527340340822018",
+          "timestamp": "2023-06-18T20:22:09+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1670527340340822018",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, here, thing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_911d4bb5f22a",
+      "proof_score": 1,
+      "mass": 37.015,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_a7c3a3c1b8ce",
+      "name": "Time",
+      "summary": "Archive cluster around time: 628 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "don",
+        "same",
+        "work"
+      ],
+      "artifacts": [
+        {
+          "id": "art_13870b3d0989",
+          "title": "Time receipt from 2023-07-12",
+          "excerpt": "Oh no she forgot to pay rent for the 2nd time and it's worried she's gonna get kicked out of her place\nReally feels like a bad time to dump her but im feelin pretty set on it",
+          "source_document_id": "1679261654415187968",
+          "timestamp": "2023-07-12T22:49:12+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1679261654415187968",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, don, same."
+        },
+        {
+          "id": "art_9b04b96fbd41",
+          "title": "Time receipt from 2024-04-07",
+          "excerpt": "friends gf getting half-offended that i told a hiring manager my expected salary is 150K\n\nevery time I'm around them i regret it",
+          "source_document_id": "1777025277232849034",
+          "timestamp": "2024-04-07T17:26:56+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1777025277232849034",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, don, same."
+        },
+        {
+          "id": "art_4570932de2fa",
+          "title": "Time receipt from 2025-02-15",
+          "excerpt": "the ivf thing isn't going to work cause women have a real hard time raising boys into men.\nit's going to make the root issue even worse.\ntechno death spiral.",
+          "source_document_id": "1890908616451887111",
+          "timestamp": "2025-02-15T23:38:40+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1890908616451887111",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, don, same."
+        },
+        {
+          "id": "art_34abd692f781",
+          "title": "Time receipt from 2023-08-29",
+          "excerpt": "I swear every time a site or app asks me to make an accoubt or sign in it makes me want to throw my shit at the wall",
+          "source_document_id": "1696634392863744112",
+          "timestamp": "2023-08-29T21:22:15+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1696634392863744112",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, don, same."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8d02ae038a4d",
+      "proof_score": 0.994,
+      "mass": 29.282,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_8942eb52b99f",
+      "name": "Don",
+      "summary": "Archive cluster around don: 587 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "know",
+        "think",
+        "work"
+      ],
+      "artifacts": [
+        {
+          "id": "art_23df5bbc0620",
+          "title": "Don receipt from 2022-03-22",
+          "excerpt": "@cauchyfriend They don't want to admit they do. Current culture peer pressure and such",
+          "source_document_id": "1506380441590255622",
+          "timestamp": "2022-03-22T21:20:59+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1506380441590255622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, think."
+        },
+        {
+          "id": "art_41459bfc1881",
+          "title": "Don receipt from 2023-09-19",
+          "excerpt": "All i want is to be able to afford a house and life\nI don't mind the store brand coffee\nOr a used car\nYet this is out of reach",
+          "source_document_id": "1703969197959913933",
+          "timestamp": "2023-09-19T03:08:09+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1703969197959913933",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, think."
+        },
+        {
+          "id": "art_c27dc1ecba5c",
+          "title": "Don receipt from 2023-11-23",
+          "excerpt": "@kenthesimp Yeah ime as one looking at peers there are many(idk about majority) who seem to think they don't owe others any flexibility when it comes to communication, as if comms is this static thing and not a continuous act of translation",
+          "source_document_id": "1727515634060394710",
+          "timestamp": "2023-11-23T02:33:17+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1727515634060394710",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, think."
+        },
+        {
+          "id": "art_bcab0aa9a4a7",
+          "title": "Don receipt from 2024-02-18",
+          "excerpt": "@selentelechia they don't want u to know u can make clean molly in a ceramic bathtub",
+          "source_document_id": "1759061293817118815",
+          "timestamp": "2024-02-18T03:44:28+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1759061293817118815",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b8e4ccf75981",
+      "proof_score": 0.988,
+      "mass": 29.003,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_71a257d5e4cb",
+      "name": "Think",
+      "summary": "Archive cluster around think: 441 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "gonna",
+        "something",
+        "many",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f21d073e42f8",
+          "title": "Think receipt from 2025-01-09",
+          "excerpt": "despite what they seem to think, maybe California shouldn't run the whole country",
+          "source_document_id": "1877468656738963763",
+          "timestamp": "2025-01-09T21:33:04+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1877468656738963763",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, gonna, something, many."
+        },
+        {
+          "id": "art_189f8c2c0c10",
+          "title": "Think receipt from 2024-03-11",
+          "excerpt": "think i got rejected today\n\nrejected when all im tryina do is get the power brick i left at this chick's house",
+          "source_document_id": "1767043567606960379",
+          "timestamp": "2024-03-11T04:23:11+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1767043567606960379",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, gonna, something, many."
+        },
+        {
+          "id": "art_137cf69fd42e",
+          "title": "Think receipt from 2022-09-19",
+          "excerpt": "I think I've fucked my way into a relationship",
+          "source_document_id": "1571705220933251072",
+          "timestamp": "2022-09-19T03:38:20+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1571705220933251072",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, gonna, something, many."
+        },
+        {
+          "id": "art_f71e16791fc5",
+          "title": "Think receipt from 2022-03-23",
+          "excerpt": "Think i blew it lol https://t.co/p4EzoNzNMq",
+          "source_document_id": "1506484532400197635",
+          "timestamp": "2022-03-23T04:14:36+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1506484532400197635",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, gonna, something, many."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_595afc0977cd",
+      "proof_score": 0.959,
+      "mass": 28.116,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_13980e4d667a",
+      "name": "Work",
+      "summary": "Archive cluster around work: 410 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "work",
+        "really",
+        "need",
+        "job",
+        "trying"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f610b32f66ae",
+          "title": "Work receipt from 2024-04-30",
+          "excerpt": "so yeah in a shocking long and a short trying it again with the ex did not in fact work and in an honestly double shocker it was not a still unmanageable less-bullshit it was infact way more dehumanizing bullshit",
+          "source_document_id": "1785198582284616039",
+          "timestamp": "2024-04-30T06:44:44+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1785198582284616039",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, really, need, job."
+        },
+        {
+          "id": "art_ec7cb0030727",
+          "title": "Work receipt from 2025-03-07",
+          "excerpt": "i need to commit to being a dick to new guy at work. \nnot totally overtly being an asshole, yet, \nbut hardline not sharing any knowledge with him.\nlet him flail.",
+          "source_document_id": "1897829415008251922",
+          "timestamp": "2025-03-07T01:59:27+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1897829415008251922",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, really, need, job."
+        },
+        {
+          "id": "art_16af20b1bb3e",
+          "title": "Work receipt from 2024-10-17",
+          "excerpt": "wtf is shadow work",
+          "source_document_id": "1846972215172256262",
+          "timestamp": "2024-10-17T17:51:05+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1846972215172256262",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, really, need, job."
+        },
+        {
+          "id": "art_41a60439266b",
+          "title": "Work receipt from 2025-02-02",
+          "excerpt": "wish i could describe how retardedly horny i feel. \n\nlike i shouldn't leave the house unless I'm going to work &amp; back. Walmart is becoming difficult.",
+          "source_document_id": "1885936603031576625",
+          "timestamp": "2025-02-02T06:21:39+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1885936603031576625",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: work, really, need, job."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f0f8158fd7b4",
+      "proof_score": 0.952,
+      "mass": 27.958,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_d3c16878743d",
+      "name": "Really",
+      "summary": "Archive cluster around really: 385 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "need",
+        "cause",
+        "want",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8dbb55a9a1ec",
+          "title": "Really receipt from 2024-03-27",
+          "excerpt": "it feels like I've spent the last decade trying to be an adult have a real job etc when really i should've been partying and making friends",
+          "source_document_id": "1772877296778522682",
+          "timestamp": "2024-03-27T06:44:20+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1772877296778522682",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, need, cause, want."
+        },
+        {
+          "id": "art_c43ea21331b3",
+          "title": "Really receipt from 2024-06-07",
+          "excerpt": "really barely holding my shit together",
+          "source_document_id": "1798946746393141455",
+          "timestamp": "2024-06-07T05:15:01+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1798946746393141455",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, need, cause, want."
+        },
+        {
+          "id": "art_fe83a607184d",
+          "title": "Really receipt from 2025-01-08",
+          "excerpt": "@ErrolTostigson ime making a fool of oneself tied to legal name isn't the worst thing. really great bouncing into them again in a context where you're the rockstar indispensable team member.",
+          "source_document_id": "1876827347111883239",
+          "timestamp": "2025-01-08T03:04:43+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1876827347111883239",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, need, cause, want."
+        },
+        {
+          "id": "art_6862966b0f1e",
+          "title": "Really receipt from 2024-07-16",
+          "excerpt": "its a conveyor and (to my knowledge)pneumatic sort system how hard can it be I've done a couple conveyors all they need is to be really really straight and the right speed",
+          "source_document_id": "1813355726020178384",
+          "timestamp": "2024-07-16T23:31:10+00:00",
+          "url": "https://x.com/kumbuchaqueen/status/1813355726020178384",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, need, cause, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7ff301b0f99f",
+      "proof_score": 0.946,
+      "mass": 27.548,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
